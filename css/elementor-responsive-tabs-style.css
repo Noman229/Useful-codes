@@ -1,0 +1,9 @@
+#your-widgets-id .elementor-tabs-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  #your-widgets-id .elementor-tab-mobile-title {
+    display: none;
+}
